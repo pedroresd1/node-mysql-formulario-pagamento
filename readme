@@ -1,0 +1,29 @@
+Instalando o Sequelize
+
+## npm install --save sequelize
+
+Instalando o Mysql
+
+## npm install --save mysql2
+
+Instalando o handlebars
+
+## npm install --save handlebars
+
+Instalando o express
+
+## npm install --save express
+
+Instalando o handlebars
+
+## npm install --save express-handlebars
+
+Pasta View
+--> Contém as paginas a serem carregadas pelo main handlebars
+
+Pasta View/layouts
+--> Contém o main handlebars
+
+Instalando o body-parser
+
+## npm install --save body-parser
